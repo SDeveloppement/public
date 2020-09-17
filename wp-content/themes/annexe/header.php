@@ -27,8 +27,16 @@
 </head>
 	
 <body <?php body_class(); ?>>
+<?php 
+/* 
+
+J'Effectu un test.
+
+*/
+?>
 
 <header>
+	<div class="test-header">Ceci est un test</div>
 	<div class="top-menu-wrapper-header">
 		<div class="top-menu-header">
 			<div class="logo-header">
