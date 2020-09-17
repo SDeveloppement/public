@@ -1,0 +1,31 @@
+.hide-form {
+    display: none;
+}
+
+.button-page, .display-button {
+	display: inline-block;
+	padding: 15px;
+	color: black;
+	background: #ffffff;
+	border: 2px solid #dfdfdf;
+	border-radius: 5px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+.pagination-wrapp {
+	margin-bottom: 25px;
+}
+
+.selected {
+	background: #dfdfdf;
+	border-color: #ffffff;
+}
+
+.gpage {
+    display: none;
+}
+
+.display-wrapp {
+	margin-bottom: 10px;
+}

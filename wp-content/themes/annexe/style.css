@@ -1,0 +1,22 @@
+/*
+Theme Name: Annexe
+Theme URI: 
+Author: Elefen
+Author URI: https://www.elefen.com
+Description: Thème elefen
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+@font-face {
+    font-family: Nexa Bold;
+    src : url('./fonts/Nexa_Free_Bold.otf');
+}
+@font-face {
+    font-family: Nexa Light;
+    src : url('./fonts/Nexa_Free_Light.otf');
+}
+@font-face {
+    font-family: Raleway SemiBold;
+    src : url('./fonts/Raleway-SemiBold.ttf');
+}

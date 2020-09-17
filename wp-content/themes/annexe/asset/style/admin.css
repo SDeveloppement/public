@@ -1,0 +1,7 @@
+.layout[data-layout="row"] {
+    background: #cecece !important;
+}
+
+.layout[data-layout="section"] {
+    background: #a7a7a7;
+}
